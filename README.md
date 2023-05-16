@@ -1,7 +1,7 @@
 # CanineCare
 # Ungureanu Elena Alexandra, grupa 1121
 - link video- prezentare proiect
-- [link publicare](https://proiect-cloud-e1e7vljtt-alexaelena2000.vercel.app/)
+- [CanineCare](https://proiect-cloud-e1e7vljtt-alexaelena2000.vercel.app/)
 ## 1. Introducere
 Aplicatia are titlul de "CanineCare" si vine in ajutorul administratorilor unui adapost de caini. Acesta poate vizualiza toti cainii disponibili pentru adoptie, odata adoptat un caine administratorul are posibilitatea de a sterge un caine din baza de date. baza de date folosita este MongoDB, aceasta este stocata pe cloud pe o instanta de Amazon Web Services. Administratorul poate adauga foarte simplu un nou caine care trebuie dat spre adoptie. Mai mult decat atat, aplicatia dispune si de un robot pe care administratorul il poate folosi in cazul in care are nevoie de mai multe informatii despre caini. Legatura cu robotul este facuta cu ajutorul API gpt3.5 oferit de la compania OpenAI.
 ## 2.  Descriere problemă
